@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Dashboard",
+    "icon": "dashboard",
+    "children": [
+      {
+        "title": "Analysis",
+        "icon": "analysis"
+      },
+      {
+        "title": "Monitor",
+        "icon": "monitor"
+      }
+    ]
+  },
+  {
+    "title": "Order",
+    "icon": "order",
+    "children": [
+      {
+        "title": "New Order",
+        "icon": "new_order"
+      },
+      {
+        "title": "All Orders",
+        "icon": "all_orders"
+      }
+    ]
+  },
+  {
+    "title": "User",
+    "icon": "user",
+    "children": [
+    ]
+  }
+]
