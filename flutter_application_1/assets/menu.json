@@ -1,35 +1,35 @@
 [
   {
     "title": "Dashboard",
-    "icon": "dashboard",
+    "icon": "view-dashboard",
     "children": [
       {
         "title": "Analysis",
-        "icon": "analysis"
+        "icon": "google-analytics"
       },
       {
         "title": "Monitor",
-        "icon": "monitor"
+        "icon": "monitor-dashboard"
       }
     ]
   },
   {
     "title": "Order",
-    "icon": "order",
+    "icon": "receipt-text",
     "children": [
       {
         "title": "New Order",
-        "icon": "new_order"
+        "icon": "receipt-text-plus"
       },
       {
         "title": "All Orders",
-        "icon": "all_orders"
+        "icon": "receipt-text-outline"
       }
     ]
   },
   {
     "title": "User",
-    "icon": "user",
+    "icon": "account",
     "children": [
     ]
   }
